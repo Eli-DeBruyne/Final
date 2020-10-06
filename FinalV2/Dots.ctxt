@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Dots
+comment1.params=
+comment1.target=Dots()
+comment2.params=x
+comment2.target=Dots(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ hide()
+comment5.params=
+comment5.target=void\ visable()
+comment6.params=
+comment6.target=void\ playGame()
+comment7.params=
+comment7.target=void\ sleep()
+numComments=8

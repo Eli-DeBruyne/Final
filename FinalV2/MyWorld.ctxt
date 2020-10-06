@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment1.params=
+comment1.target=MyWorld()
+comment2.params=count
+comment2.target=void\ addDots(int)
+comment3.params=index
+comment3.target=void\ decideColorOfDot(int)
+comment4.params=
+comment4.target=void\ change()
+comment5.params=
+comment5.target=void\ mouseClick()
+comment6.params=
+comment6.target=void\ checkAnswer()
+comment7.params=
+comment7.target=boolean\ getFinished()
+comment8.params=finished
+comment8.target=void\ setFinished(boolean)
+numComments=9
